@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Mallakhambist</title>
-    <link href="https://mallakhambist.github.io/feed.xml" rel="self" />
-    <link href="https://mallakhambist.github.io" />
+    <link href="https://mallakhambist.in/feed.xml" rel="self" />
+    <link href="https://mallakhambist.in" />
     <updated>2025-07-06T16:40:55+05:30</updated>
     <author>
         <name>Mallakhambist</name>
     </author>
-    <id>https://mallakhambist.github.io</id>
+    <id>https://mallakhambist.in</id>
 
     <entry>
         <title>Halleluah</title>
         <author>
             <name>Mallakhambist</name>
         </author>
-        <link href="https://mallakhambist.github.io/halleluah.html"/>
-        <id>https://mallakhambist.github.io/halleluah.html</id>
-        <media:content url="https://mallakhambist.github.io/media/posts/9/Brunson-Font-Cover-1.jpg" medium="image" />
+        <link href="https://mallakhambist.in/halleluah.html"/>
+        <id>https://mallakhambist.in/halleluah.html</id>
+        <media:content url="https://mallakhambist.in/media/posts/9/Brunson-Font-Cover-1.jpg" medium="image" />
 
         <updated>2025-07-06T00:35:58+05:30</updated>
             <summary></summary>
@@ -27,21 +27,21 @@
         <author>
             <name>Mallakhambist</name>
         </author>
-        <link href="https://mallakhambist.github.io/hanging-trial-1.html"/>
-        <id>https://mallakhambist.github.io/hanging-trial-1.html</id>
-        <media:content url="https://mallakhambist.github.io/media/posts/8/Brunson-Font-Cover-2.jpg" medium="image" />
+        <link href="https://mallakhambist.in/hanging-trial-1.html"/>
+        <id>https://mallakhambist.in/hanging-trial-1.html</id>
+        <media:content url="https://mallakhambist.in/media/posts/8/Brunson-Font-Cover-2.jpg" medium="image" />
             <category term="Hanging"/>
 
         <updated>2025-07-05T17:05:13+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mallakhambist.github.io/media/posts/8/Brunson-Font-Cover-2.jpg" alt="" />
+                        <img src="https://mallakhambist.in/media/posts/8/Brunson-Font-Cover-2.jpg" alt="" />
                     How do you like that?
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mallakhambist.github.io/media/posts/8/Brunson-Font-Cover-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mallakhambist.in/media/posts/8/Brunson-Font-Cover-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>How do you like that?</p>
             ]]>
         </content>
@@ -51,21 +51,21 @@
         <author>
             <name>Mallakhambist</name>
         </author>
-        <link href="https://mallakhambist.github.io/rope-trial-1.html"/>
-        <id>https://mallakhambist.github.io/rope-trial-1.html</id>
-        <media:content url="https://mallakhambist.github.io/media/posts/7/Brunson-Font-Cover-4.jpg" medium="image" />
+        <link href="https://mallakhambist.in/rope-trial-1.html"/>
+        <id>https://mallakhambist.in/rope-trial-1.html</id>
+        <media:content url="https://mallakhambist.in/media/posts/7/Brunson-Font-Cover-4.jpg" medium="image" />
             <category term="Rope"/>
 
         <updated>2025-07-05T17:04:46+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mallakhambist.github.io/media/posts/7/Brunson-Font-Cover-4.jpg" alt="" />
+                        <img src="https://mallakhambist.in/media/posts/7/Brunson-Font-Cover-4.jpg" alt="" />
                     Hello this is
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mallakhambist.github.io/media/posts/7/Brunson-Font-Cover-4.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mallakhambist.in/media/posts/7/Brunson-Font-Cover-4.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Hello this is</p>
             ]]>
         </content>
@@ -75,21 +75,21 @@
         <author>
             <name>Gaur</name>
         </author>
-        <link href="https://mallakhambist.github.io/pole-trial-1.html"/>
-        <id>https://mallakhambist.github.io/pole-trial-1.html</id>
-        <media:content url="https://mallakhambist.github.io/media/posts/6/Brunson-Font-Cover-6.jpg" medium="image" />
+        <link href="https://mallakhambist.in/pole-trial-1.html"/>
+        <id>https://mallakhambist.in/pole-trial-1.html</id>
+        <media:content url="https://mallakhambist.in/media/posts/6/Brunson-Font-Cover-6.jpg" medium="image" />
             <category term="Pole"/>
 
         <updated>2025-07-05T17:04:23+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mallakhambist.github.io/media/posts/6/Brunson-Font-Cover-6.jpg" alt="" />
+                        <img src="https://mallakhambist.in/media/posts/6/Brunson-Font-Cover-6.jpg" alt="" />
                     Hello this is a trial one
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mallakhambist.github.io/media/posts/6/Brunson-Font-Cover-6.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mallakhambist.in/media/posts/6/Brunson-Font-Cover-6.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Hello this is a trial one</p>
             ]]>
         </content>
@@ -99,9 +99,9 @@
         <author>
             <name>Mallakhambist</name>
         </author>
-        <link href="https://mallakhambist.github.io/how-to-do-the-perfect-dasrang.html"/>
-        <id>https://mallakhambist.github.io/how-to-do-the-perfect-dasrang.html</id>
-        <media:content url="https://mallakhambist.github.io/media/posts/5/Brunson-Font-Cover-7.jpg" medium="image" />
+        <link href="https://mallakhambist.in/how-to-do-the-perfect-dasrang.html"/>
+        <id>https://mallakhambist.in/how-to-do-the-perfect-dasrang.html</id>
+        <media:content url="https://mallakhambist.in/media/posts/5/Brunson-Font-Cover-7.jpg" medium="image" />
             <category term="Pole"/>
 
         <updated>2025-07-05T16:24:39+05:30</updated>
@@ -113,21 +113,21 @@
         <author>
             <name>Mallakhambist</name>
         </author>
-        <link href="https://mallakhambist.github.io/mallakhamb-the-origins.html"/>
-        <id>https://mallakhambist.github.io/mallakhamb-the-origins.html</id>
-        <media:content url="https://mallakhambist.github.io/media/posts/1/Brunson-Font-Cover-5.jpg" medium="image" />
+        <link href="https://mallakhambist.in/mallakhamb-the-origins.html"/>
+        <id>https://mallakhambist.in/mallakhamb-the-origins.html</id>
+        <media:content url="https://mallakhambist.in/media/posts/1/Brunson-Font-Cover-5.jpg" medium="image" />
             <category term="Mallakhamb"/>
 
         <updated>2025-07-05T16:15:33+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mallakhambist.github.io/media/posts/1/Brunson-Font-Cover-5.jpg" alt="" />
+                        <img src="https://mallakhambist.in/media/posts/1/Brunson-Font-Cover-5.jpg" alt="" />
                     Mallakhamb was originated in the yea 1586
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mallakhambist.github.io/media/posts/1/Brunson-Font-Cover-5.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mallakhambist.in/media/posts/1/Brunson-Font-Cover-5.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Mallakhamb was originated in the yea 1586
