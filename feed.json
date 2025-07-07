@@ -1,0 +1,104 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mallakhambist",
+    "description": "",
+    "home_page_url": "https://mallakhambist.github.io",
+    "feed_url": "https://mallakhambist.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mallakhambist"
+    },
+    "items": [
+        {
+            "id": "https://mallakhambist.github.io/halleluah.html",
+            "url": "https://mallakhambist.github.io/halleluah.html",
+            "title": "Halleluah",
+            "image": "https://mallakhambist.github.io/media/posts/9/Brunson-Font-Cover-1.jpg",
+            "author": {
+                "name": "Mallakhambist"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-06T00:35:58+05:30",
+            "date_modified": "2025-07-06T16:40:55+05:30"
+        },
+        {
+            "id": "https://mallakhambist.github.io/hanging-trial-1.html",
+            "url": "https://mallakhambist.github.io/hanging-trial-1.html",
+            "title": "Hanging Trial 1",
+            "summary": "How do you like that?",
+            "content_html": "<p>How do you like that?</p>",
+            "image": "https://mallakhambist.github.io/media/posts/8/Brunson-Font-Cover-2.jpg",
+            "author": {
+                "name": "Mallakhambist"
+            },
+            "tags": [
+                   "Hanging"
+            ],
+            "date_published": "2025-07-05T17:05:13+05:30",
+            "date_modified": "2025-07-06T16:40:41+05:30"
+        },
+        {
+            "id": "https://mallakhambist.github.io/rope-trial-1.html",
+            "url": "https://mallakhambist.github.io/rope-trial-1.html",
+            "title": "Rope Trial 1",
+            "summary": "Hello this is",
+            "content_html": "<p>Hello this is</p>",
+            "image": "https://mallakhambist.github.io/media/posts/7/Brunson-Font-Cover-4.jpg",
+            "author": {
+                "name": "Mallakhambist"
+            },
+            "tags": [
+                   "Rope"
+            ],
+            "date_published": "2025-07-05T17:04:46+05:30",
+            "date_modified": "2025-07-06T16:40:27+05:30"
+        },
+        {
+            "id": "https://mallakhambist.github.io/pole-trial-1.html",
+            "url": "https://mallakhambist.github.io/pole-trial-1.html",
+            "title": "Pole Trial 1",
+            "summary": "Hello this is a trial one",
+            "content_html": "<p>Hello this is a trial one</p>",
+            "image": "https://mallakhambist.github.io/media/posts/6/Brunson-Font-Cover-6.jpg",
+            "author": {
+                "name": "Gaur"
+            },
+            "tags": [
+                   "Pole"
+            ],
+            "date_published": "2025-07-05T17:04:23+05:30",
+            "date_modified": "2025-07-06T16:40:06+05:30"
+        },
+        {
+            "id": "https://mallakhambist.github.io/how-to-do-the-perfect-dasrang.html",
+            "url": "https://mallakhambist.github.io/how-to-do-the-perfect-dasrang.html",
+            "title": "How to do the Perfect Dasrang",
+            "image": "https://mallakhambist.github.io/media/posts/5/Brunson-Font-Cover-7.jpg",
+            "author": {
+                "name": "Mallakhambist"
+            },
+            "tags": [
+                   "Pole"
+            ],
+            "date_published": "2025-07-05T16:24:39+05:30",
+            "date_modified": "2025-07-06T16:39:45+05:30"
+        },
+        {
+            "id": "https://mallakhambist.github.io/mallakhamb-the-origins.html",
+            "url": "https://mallakhambist.github.io/mallakhamb-the-origins.html",
+            "title": "Mallakhamb - The Origins",
+            "summary": "Mallakhamb was originated in the yea 1586",
+            "content_html": "\n  <p>\n    Mallakhamb was originated in the yea 1586\n  </p>",
+            "image": "https://mallakhambist.github.io/media/posts/1/Brunson-Font-Cover-5.jpg",
+            "author": {
+                "name": "Mallakhambist"
+            },
+            "tags": [
+                   "Mallakhamb"
+            ],
+            "date_published": "2025-07-05T16:15:33+05:30",
+            "date_modified": "2025-07-06T16:39:28+05:30"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mallakhambist.github.io/sitemap.xml
