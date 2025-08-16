@@ -1,59 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://mallakhambist.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://mallakhambist.in/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://mallakhambist.github.io/</loc>
+<loc>https://mallakhambist.in/</loc>
 </url>
 <url>
-<loc>https://mallakhambist.github.io/halleluah.html</loc>
-<lastmod>2025-07-16T20:16:13+05:30</lastmod>
+<loc>https://mallakhambist.in/origins-of-mallakhamb/</loc>
+<lastmod>2025-08-17T00:16:09+05:30</lastmod>
 <image:image>
-<image:loc>https://mallakhambist.github.io/media/posts/9/Brunson-Font-Cover-1.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:loc>https://mallakhambist.in/media/posts/11/Origins-of-Mallakhamb-Recovered.png</image:loc>
+<image:title><![CDATA[The Legendary Origin of Mallakhamb]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mallakhambist.in/media/posts/11/123-2.avif</image:loc>
+<image:title><![CDATA[Mallakhamb in front of Red Fort, Delhi, India.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mallakhambist.in/media/posts/11/balambhattadada.jpg</image:loc>
+<image:title><![CDATA[Balambhatta Dada Deodhar: The Father of Mallakhamb]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mallakhambist.in/media/posts/11/mallah.gif</image:loc>
+<image:title><![CDATA[Old Mallakhamb Pyramid picture]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://mallakhambist.github.io/hanging-trial-1.html</loc>
-<lastmod>2025-07-16T20:17:03+05:30</lastmod>
-<image:image>
-<image:loc>https://mallakhambist.github.io/media/posts/8/Brunson-Font-Cover-2.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://mallakhambist.github.io/how-to-do-the-perfect-dasrang.html</loc>
-<lastmod>2025-07-16T20:18:11+05:30</lastmod>
-<image:image>
-<image:loc>https://mallakhambist.github.io/media/posts/5/Brunson-Font-Cover-7.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://mallakhambist.github.io/mallakhamb-the-origins.html</loc>
-<lastmod>2025-07-16T20:18:33+05:30</lastmod>
-<image:image>
-<image:loc>https://mallakhambist.github.io/media/posts/1/Brunson-Font-Cover-5.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://mallakhambist.github.io/pole-trial-1.html</loc>
-<lastmod>2025-07-16T20:17:39+05:30</lastmod>
-<image:image>
-<image:loc>https://mallakhambist.github.io/media/posts/6/Brunson-Font-Cover-6.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://mallakhambist.github.io/rope-trial-1.html</loc>
-<lastmod>2025-07-16T20:17:22+05:30</lastmod>
-<image:image>
-<image:loc>https://mallakhambist.github.io/media/posts/7/Brunson-Font-Cover-4.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://mallakhambist.github.io/who-are-we.html</loc>
+<loc>https://mallakhambist.in/who-are-we/</loc>
 <lastmod>2025-07-06T17:12:23+05:30</lastmod>
 </url>
 </urlset>

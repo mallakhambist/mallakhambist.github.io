@@ -1,335 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Mallakhambist</title>
-    <link href="https://mallakhambist.github.io/feed.xml" rel="self" />
-    <link href="https://mallakhambist.github.io" />
-    <updated>2025-07-16T20:18:33+05:30</updated>
+    <title>mallakhambist.in</title>
+    <link href="https://mallakhambist.in/feed.xml" rel="self" />
+    <link href="https://mallakhambist.in" />
+    <updated>2025-08-17T00:16:09+05:30</updated>
     <author>
         <name>Mallakhambist</name>
     </author>
-    <id>https://mallakhambist.github.io</id>
+    <id>https://mallakhambist.in</id>
 
     <entry>
-        <title>[DEMO BLOG] The Grace and Grit of Mallakhamb: A Glimpse into India’s Traditional Sport</title>
+        <title> The Legendary Origins of Mallakhamb: The Ancient Indian Sport of Strength and Art</title>
         <author>
             <name>Mallakhambist</name>
         </author>
-        <link href="https://mallakhambist.github.io/halleluah.html"/>
-        <id>https://mallakhambist.github.io/halleluah.html</id>
-        <media:content url="https://mallakhambist.github.io/media/posts/9/Brunson-Font-Cover-1.jpg" medium="image" />
-
-        <updated>2025-07-06T00:35:58+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://mallakhambist.github.io/media/posts/9/Brunson-Font-Cover-1.jpg" alt="" />
-                    ⚠️ This is a demo blog post. The content below is for testing purposes and does not represent a published article. Actual blog posts will feature original research, athlete interviews, training guides, and cultural insights. What is Mallakhamb? Mallakhamb is an ancient Indian sport that&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://mallakhambist.github.io/media/posts/9/Brunson-Font-Cover-1.jpg" class="type:primaryImage" alt="" /></p>
-                <hr>
-<blockquote>⚠️ <i>This is a demo blog post. The content below is for testing purposes and does not represent a published article. Actual blog posts will feature original research, athlete interviews, training guides, and cultural insights.</i><i></i></blockquote>
-<hr>
-<h3><strong>What is Mallakhamb?</strong></h3>
-<p class="p3"> </p>
-<p class="p4">Mallakhamb is an ancient Indian sport that blends strength, agility, flexibility, and focus. Performed on a vertical wooden pole or hanging rope, it involves acrobatic poses, yoga postures, and gymnastic transitions—all executed with grace and control.</p>
-<p class="p3"> </p>
-<p class="p4">Derived from the words <i>“Malla”</i> (wrestler) and <i>“Khamb”</i> (pole), this discipline was historically used to train wrestlers in body coordination and mental discipline.</p>
-<hr>
-<h3><strong>A Sport Rooted in Tradition</strong></h3>
-<p class="p3"> </p>
-<p class="p4">Though its origins date back to the 12th century (and perhaps earlier), Mallakhamb continues to evolve. Today, it is recognized as a competitive sport with structured formats like <span class="s2"><strong>Pole Mallakhamb</strong></span>, <span class="s2"><strong>Rope Mallakhamb</strong></span>, and <span class="s2"><strong>Hanging Mallakhamb</strong></span>.</p>
-<p class="p3"> </p>
-<p class="p4">Yet, at its heart, it remains a cultural treasure—an art form that carries the soul of Indian physical training.</p>
-<hr>
-<h3><strong>Why We’re Sharing This</strong></h3>
-<p class="p3"> </p>
-<p class="p4">This demo blog gives you a preview of the kind of articles we’ll be publishing on <i>The Mallakhambist</i>. Expect real stories from athletes, deep dives into techniques, training schedules, interviews with coaches, event coverage, and much more.</p>
-<hr>
-<h3><strong>Coming Soon…</strong></h3>
-<p class="p3"> </p>
-<p class="p4">🔹 Athlete Spotlights</p>
-<p class="p4">🔹 Video Tutorials</p>
-<p class="p4">🔹 Mallakhamb in Schools &amp; Communities</p>
-<p class="p4">🔹 Nutrition &amp; Fitness Guides</p>
-<p class="p4">🔹 Historical Timelines and Regional Styles</p>
-<p class="p3"> </p>
-<p class="p4">We’re building a space for everyone—athletes, fans, newcomers, and cultural explorers. Whether you’re a national-level performer or someone who just discovered the word <i>Mallakhamb</i> today—you belong here.</p>
-<hr>
-<p class="p5"><strong>Thank you for visiting this demo post. Stay tuned for more inspiring and informative content soon.</strong></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>[DEMO Blog 2]</title>
-        <author>
-            <name>Mallakhambist</name>
-        </author>
-        <link href="https://mallakhambist.github.io/hanging-trial-1.html"/>
-        <id>https://mallakhambist.github.io/hanging-trial-1.html</id>
-        <media:content url="https://mallakhambist.github.io/media/posts/8/Brunson-Font-Cover-2.jpg" medium="image" />
-            <category term="Hanging"/>
-
-        <updated>2025-07-05T17:05:13+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://mallakhambist.github.io/media/posts/8/Brunson-Font-Cover-2.jpg" alt="" />
-                    ⚠️ This is a demo blog post. The content below is for testing purposes and does not represent a published article. Actual blog posts will feature original research, athlete interviews, training guides, and cultural insights. What is Mallakhamb? Mallakhamb is an ancient Indian sport that&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://mallakhambist.github.io/media/posts/8/Brunson-Font-Cover-2.jpg" class="type:primaryImage" alt="" /></p>
-                <hr>
-<blockquote>⚠️ <i>This is a demo blog post. The content below is for testing purposes and does not represent a published article. Actual blog posts will feature original research, athlete interviews, training guides, and cultural insights.</i><i></i></blockquote>
-<hr>
-<h3><strong>What is Mallakhamb?</strong></h3>
-<p class="p3"> </p>
-<p class="p4">Mallakhamb is an ancient Indian sport that blends strength, agility, flexibility, and focus. Performed on a vertical wooden pole or hanging rope, it involves acrobatic poses, yoga postures, and gymnastic transitions—all executed with grace and control.</p>
-<p class="p3"> </p>
-<p class="p4">Derived from the words <i>“Malla”</i> (wrestler) and <i>“Khamb”</i> (pole), this discipline was historically used to train wrestlers in body coordination and mental discipline.</p>
-<hr>
-<h3><strong>A Sport Rooted in Tradition</strong></h3>
-<p class="p3"> </p>
-<p class="p4">Though its origins date back to the 12th century (and perhaps earlier), Mallakhamb continues to evolve. Today, it is recognized as a competitive sport with structured formats like <span class="s2"><strong>Pole Mallakhamb</strong></span>, <span class="s2"><strong>Rope Mallakhamb</strong></span>, and <span class="s2"><strong>Hanging Mallakhamb</strong></span>.</p>
-<p class="p3"> </p>
-<p class="p4">Yet, at its heart, it remains a cultural treasure—an art form that carries the soul of Indian physical training.</p>
-<hr>
-<h3><strong>Why We’re Sharing This</strong></h3>
-<p class="p3"> </p>
-<p class="p4">This demo blog gives you a preview of the kind of articles we’ll be publishing on <i>The Mallakhambist</i>. Expect real stories from athletes, deep dives into techniques, training schedules, interviews with coaches, event coverage, and much more.</p>
-<hr>
-<h3><strong>Coming Soon…</strong></h3>
-<p class="p3"> </p>
-<p class="p4">🔹 Athlete Spotlights</p>
-<p class="p4">🔹 Video Tutorials</p>
-<p class="p4">🔹 Mallakhamb in Schools &amp; Communities</p>
-<p class="p4">🔹 Nutrition &amp; Fitness Guides</p>
-<p class="p4">🔹 Historical Timelines and Regional Styles</p>
-<p class="p3"> </p>
-<p class="p4">We’re building a space for everyone—athletes, fans, newcomers, and cultural explorers. Whether you’re a national-level performer or someone who just discovered the word <i>Mallakhamb</i> today—you belong here.</p>
-<hr>
-<p class="p5"><strong>Thank you for visiting this demo post. Stay tuned for more inspiring and informative content soon.</strong></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>[DEMO Blog 3]</title>
-        <author>
-            <name>Mallakhambist</name>
-        </author>
-        <link href="https://mallakhambist.github.io/rope-trial-1.html"/>
-        <id>https://mallakhambist.github.io/rope-trial-1.html</id>
-        <media:content url="https://mallakhambist.github.io/media/posts/7/Brunson-Font-Cover-4.jpg" medium="image" />
-            <category term="Rope"/>
-
-        <updated>2025-07-05T17:04:46+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://mallakhambist.github.io/media/posts/7/Brunson-Font-Cover-4.jpg" alt="" />
-                    ⚠️ This is a demo blog post. The content below is for testing purposes and does not represent a published article. Actual blog posts will feature original research, athlete interviews, training guides, and cultural insights. What is Mallakhamb? Mallakhamb is an ancient Indian sport that&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://mallakhambist.github.io/media/posts/7/Brunson-Font-Cover-4.jpg" class="type:primaryImage" alt="" /></p>
-                <hr>
-<blockquote>⚠️ <i>This is a demo blog post. The content below is for testing purposes and does not represent a published article. Actual blog posts will feature original research, athlete interviews, training guides, and cultural insights.</i><i></i></blockquote>
-<hr>
-<h3><strong>What is Mallakhamb?</strong></h3>
-<p class="p3"> </p>
-<p class="p4">Mallakhamb is an ancient Indian sport that blends strength, agility, flexibility, and focus. Performed on a vertical wooden pole or hanging rope, it involves acrobatic poses, yoga postures, and gymnastic transitions—all executed with grace and control.</p>
-<p class="p3"> </p>
-<p class="p4">Derived from the words <i>“Malla”</i> (wrestler) and <i>“Khamb”</i> (pole), this discipline was historically used to train wrestlers in body coordination and mental discipline.</p>
-<hr>
-<h3><strong>A Sport Rooted in Tradition</strong></h3>
-<p class="p3"> </p>
-<p class="p4">Though its origins date back to the 12th century (and perhaps earlier), Mallakhamb continues to evolve. Today, it is recognized as a competitive sport with structured formats like <span class="s2"><strong>Pole Mallakhamb</strong></span>, <span class="s2"><strong>Rope Mallakhamb</strong></span>, and <span class="s2"><strong>Hanging Mallakhamb</strong></span>.</p>
-<p class="p3"> </p>
-<p class="p4">Yet, at its heart, it remains a cultural treasure—an art form that carries the soul of Indian physical training.</p>
-<hr>
-<h3><strong>Why We’re Sharing This</strong></h3>
-<p class="p3"> </p>
-<p class="p4">This demo blog gives you a preview of the kind of articles we’ll be publishing on <i>The Mallakhambist</i>. Expect real stories from athletes, deep dives into techniques, training schedules, interviews with coaches, event coverage, and much more.</p>
-<hr>
-<h3><strong>Coming Soon…</strong></h3>
-<p class="p3"> </p>
-<p class="p4">🔹 Athlete Spotlights</p>
-<p class="p4">🔹 Video Tutorials</p>
-<p class="p4">🔹 Mallakhamb in Schools &amp; Communities</p>
-<p class="p4">🔹 Nutrition &amp; Fitness Guides</p>
-<p class="p4">🔹 Historical Timelines and Regional Styles</p>
-<p class="p3"> </p>
-<p class="p4">We’re building a space for everyone—athletes, fans, newcomers, and cultural explorers. Whether you’re a national-level performer or someone who just discovered the word <i>Mallakhamb</i> today—you belong here.</p>
-<hr>
-<p class="p5"><strong>Thank you for visiting this demo post. Stay tuned for more inspiring and informative content soon.</strong></p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>[DEMO Blog 4]</title>
-        <author>
-            <name>Mallakhambist</name>
-        </author>
-        <link href="https://mallakhambist.github.io/pole-trial-1.html"/>
-        <id>https://mallakhambist.github.io/pole-trial-1.html</id>
-        <media:content url="https://mallakhambist.github.io/media/posts/6/Brunson-Font-Cover-6.jpg" medium="image" />
-            <category term="Pole"/>
-
-        <updated>2025-07-05T17:04:23+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://mallakhambist.github.io/media/posts/6/Brunson-Font-Cover-6.jpg" alt="" />
-                    ⚠️ This is a demo blog post. The content below is for testing purposes and does not represent a published article. Actual blog posts will feature original research, athlete interviews, training guides, and cultural insights. What is Mallakhamb? Mallakhamb is an ancient Indian sport that&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://mallakhambist.github.io/media/posts/6/Brunson-Font-Cover-6.jpg" class="type:primaryImage" alt="" /></p>
-                <hr>
-<blockquote>⚠️ <i>This is a demo blog post. The content below is for testing purposes and does not represent a published article. Actual blog posts will feature original research, athlete interviews, training guides, and cultural insights.</i><i></i></blockquote>
-<hr>
-<h3><strong>What is Mallakhamb?</strong></h3>
-<p class="p3"> </p>
-<p class="p4">Mallakhamb is an ancient Indian sport that blends strength, agility, flexibility, and focus. Performed on a vertical wooden pole or hanging rope, it involves acrobatic poses, yoga postures, and gymnastic transitions—all executed with grace and control.</p>
-<p class="p3"> </p>
-<p class="p4">Derived from the words <i>“Malla”</i> (wrestler) and <i>“Khamb”</i> (pole), this discipline was historically used to train wrestlers in body coordination and mental discipline.</p>
-<hr>
-<h3><strong>A Sport Rooted in Tradition</strong></h3>
-<p class="p3"> </p>
-<p class="p4">Though its origins date back to the 12th century (and perhaps earlier), Mallakhamb continues to evolve. Today, it is recognized as a competitive sport with structured formats like <span class="s2"><strong>Pole Mallakhamb</strong></span>, <span class="s2"><strong>Rope Mallakhamb</strong></span>, and <span class="s2"><strong>Hanging Mallakhamb</strong></span>.</p>
-<p class="p3"> </p>
-<p class="p4">Yet, at its heart, it remains a cultural treasure—an art form that carries the soul of Indian physical training.</p>
-<hr>
-<h3><strong>Why We’re Sharing This</strong></h3>
-<p class="p3"> </p>
-<p class="p4">This demo blog gives you a preview of the kind of articles we’ll be publishing on <i>The Mallakhambist</i>. Expect real stories from athletes, deep dives into techniques, training schedules, interviews with coaches, event coverage, and much more.</p>
-<hr>
-<h3><strong>Coming Soon…</strong></h3>
-<p class="p3"> </p>
-<p class="p4">🔹 Athlete Spotlights</p>
-<p class="p4">🔹 Video Tutorials</p>
-<p class="p4">🔹 Mallakhamb in Schools &amp; Communities</p>
-<p class="p4">🔹 Nutrition &amp; Fitness Guides</p>
-<p class="p4">🔹 Historical Timelines and Regional Styles</p>
-<p class="p3"> </p>
-<p class="p4">We’re building a space for everyone—athletes, fans, newcomers, and cultural explorers. Whether you’re a national-level performer or someone who just discovered the word <i>Mallakhamb</i> today—you belong here.</p>
-<hr>
-<p class="p5"><strong>Thank you for visiting this demo post. Stay tuned for more inspiring and informative content soon.</strong></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>[DEMO Blog 5]</title>
-        <author>
-            <name>Mallakhambist</name>
-        </author>
-        <link href="https://mallakhambist.github.io/how-to-do-the-perfect-dasrang.html"/>
-        <id>https://mallakhambist.github.io/how-to-do-the-perfect-dasrang.html</id>
-        <media:content url="https://mallakhambist.github.io/media/posts/5/Brunson-Font-Cover-7.jpg" medium="image" />
-            <category term="Pole"/>
-
-        <updated>2025-07-05T16:24:39+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://mallakhambist.github.io/media/posts/5/Brunson-Font-Cover-7.jpg" alt="" />
-                    <hr>
-<blockquote>⚠️ <i>This is a demo blog post. The content below is for testing purposes and does not represent a published article. Actual blog posts will feature original research, athlete interviews, training guides, and cultural insights.</i><i></i></blockquote>
-<hr>
-<h3><strong>What is Mallakhamb?</strong></h3>
-<p class="p3"> </p>
-<p class="p4">Mallakhamb is an ancient Indian sport that blends strength, agility, flexibility, and focus. Performed on a vertical wooden pole or hanging rope, it involves acrobatic poses, yoga postures, and gymnastic transitions—all executed with grace and control.</p>
-<p class="p3"> </p>
-<p class="p4">Derived from the words <i>“Malla”</i> (wrestler) and <i>“Khamb”</i> (pole), this discipline was historically used to train wrestlers in body coordination and mental discipline.</p>
-<hr>
-<h3><strong>A Sport Rooted in Tradition</strong></h3>
-<p class="p3"> </p>
-<p class="p4">Though its origins date back to the 12th century (and perhaps earlier), Mallakhamb continues to evolve. Today, it is recognized as a competitive sport with structured formats like <span class="s2"><strong>Pole Mallakhamb</strong></span>, <span class="s2"><strong>Rope Mallakhamb</strong></span>, and <span class="s2"><strong>Hanging Mallakhamb</strong></span>.</p>
-<p class="p3"> </p>
-<p class="p4">Yet, at its heart, it remains a cultural treasure—an art form that carries the soul of Indian physical training.</p>
-<hr>
-<h3><strong>Why We’re Sharing This</strong></h3>
-<p class="p3"> </p>
-<p class="p4">This demo blog gives you a preview of the kind of articles we’ll be publishing on <i>The Mallakhambist</i>. Expect real stories from athletes, deep dives into techniques, training schedules, interviews with coaches, event coverage, and much more.</p>
-<hr>
-<h3><strong>Coming Soon…</strong></h3>
-<p class="p3"> </p>
-<p class="p4">🔹 Athlete Spotlights</p>
-<p class="p4">🔹 Video Tutorials</p>
-<p class="p4">🔹 Mallakhamb in Schools &amp; Communities</p>
-<p class="p4">🔹 Nutrition &amp; Fitness Guides</p>
-<p class="p4">🔹 Historical Timelines and Regional Styles</p>
-<p class="p3"> </p>
-<p class="p4">We’re building a space for everyone—athletes, fans, newcomers, and cultural explorers. Whether you’re a national-level performer or someone who just discovered the word <i>Mallakhamb</i> today—you belong here.</p>
-<hr>
-<p class="p5"><strong>Thank you for visiting this demo post. Stay tuned for more inspiring and informative content soon.</strong></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://mallakhambist.github.io/media/posts/5/Brunson-Font-Cover-7.jpg" class="type:primaryImage" alt="" /></p>
-                <hr>
-<blockquote>⚠️ <i>This is a demo blog post. The content below is for testing purposes and does not represent a published article. Actual blog posts will feature original research, athlete interviews, training guides, and cultural insights.</i><i></i></blockquote>
-<hr>
-<h3><strong>What is Mallakhamb?</strong></h3>
-<p class="p3"> </p>
-<p class="p4">Mallakhamb is an ancient Indian sport that blends strength, agility, flexibility, and focus. Performed on a vertical wooden pole or hanging rope, it involves acrobatic poses, yoga postures, and gymnastic transitions—all executed with grace and control.</p>
-<p class="p3"> </p>
-<p class="p4">Derived from the words <i>“Malla”</i> (wrestler) and <i>“Khamb”</i> (pole), this discipline was historically used to train wrestlers in body coordination and mental discipline.</p>
-<hr>
-<h3><strong>A Sport Rooted in Tradition</strong></h3>
-<p class="p3"> </p>
-<p class="p4">Though its origins date back to the 12th century (and perhaps earlier), Mallakhamb continues to evolve. Today, it is recognized as a competitive sport with structured formats like <span class="s2"><strong>Pole Mallakhamb</strong></span>, <span class="s2"><strong>Rope Mallakhamb</strong></span>, and <span class="s2"><strong>Hanging Mallakhamb</strong></span>.</p>
-<p class="p3"> </p>
-<p class="p4">Yet, at its heart, it remains a cultural treasure—an art form that carries the soul of Indian physical training.</p>
-<hr>
-<h3><strong>Why We’re Sharing This</strong></h3>
-<p class="p3"> </p>
-<p class="p4">This demo blog gives you a preview of the kind of articles we’ll be publishing on <i>The Mallakhambist</i>. Expect real stories from athletes, deep dives into techniques, training schedules, interviews with coaches, event coverage, and much more.</p>
-<hr>
-<h3><strong>Coming Soon…</strong></h3>
-<p class="p3"> </p>
-<p class="p4">🔹 Athlete Spotlights</p>
-<p class="p4">🔹 Video Tutorials</p>
-<p class="p4">🔹 Mallakhamb in Schools &amp; Communities</p>
-<p class="p4">🔹 Nutrition &amp; Fitness Guides</p>
-<p class="p4">🔹 Historical Timelines and Regional Styles</p>
-<p class="p3"> </p>
-<p class="p4">We’re building a space for everyone—athletes, fans, newcomers, and cultural explorers. Whether you’re a national-level performer or someone who just discovered the word <i>Mallakhamb</i> today—you belong here.</p>
-<hr>
-<p class="p5"><strong>Thank you for visiting this demo post. Stay tuned for more inspiring and informative content soon.</strong></p>
-
-<p class="p5"> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>[DEMO Blog 6]</title>
-        <author>
-            <name>Mallakhambist</name>
-        </author>
-        <link href="https://mallakhambist.github.io/mallakhamb-the-origins.html"/>
-        <id>https://mallakhambist.github.io/mallakhamb-the-origins.html</id>
-        <media:content url="https://mallakhambist.github.io/media/posts/1/Brunson-Font-Cover-5.jpg" medium="image" />
+        <link href="https://mallakhambist.in/origins-of-mallakhamb/"/>
+        <id>https://mallakhambist.in/origins-of-mallakhamb/</id>
+        <media:content url="https://mallakhambist.in/media/posts/11/Origins-of-Mallakhamb-Recovered.png" medium="image" />
             <category term="Mallakhamb"/>
+            <category term="Blog"/>
 
-        <updated>2025-07-05T16:15:33+05:30</updated>
+        <updated>2025-08-14T13:57:53+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mallakhambist.github.io/media/posts/1/Brunson-Font-Cover-5.jpg" alt="" />
-                    ⸻ ⚠️ This is a demo blog post. The content below is for testing purposes and does not represent a published article. Actual blog posts will feature original research, athlete interviews, training guides, and cultural insights. ⸻ What is Mallakhamb? Mallakhamb is an ancient Indian&hellip;
+                        <img src="https://mallakhambist.in/media/posts/11/Origins-of-Mallakhamb-Recovered.png" alt="The Legendary Origin of Mallakhamb" />
+                    India is a land that breathes culture and tradition. From spices that changed global trade routes, to yoga that heals millions, to cinema and cricket that capture imaginations—its gifts to the world are endless. But hidden among these treasures lies something extraordinary. A sport both&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mallakhambist.github.io/media/posts/1/Brunson-Font-Cover-5.jpg" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    <br>⸻<br><br>⚠️ This is a demo blog post. The content below is for testing purposes and does not represent a published article. Actual blog posts will feature original research, athlete interviews, training guides, and cultural insights.<br><br>⸻<br><br>What is Mallakhamb?<br><br>Mallakhamb is an ancient Indian sport that blends strength, agility, flexibility, and focus. Performed on a vertical wooden pole or hanging rope, it involves acrobatic poses, yoga postures, and gymnastic transitions—all executed with grace and control.<br><br>Derived from the words “Malla” (wrestler) and “Khamb” (pole), this discipline was historically used to train wrestlers in body coordination and mental discipline.<br><br>⸻<br><br>A Sport Rooted in Tradition<br><br>Though its origins date back to the 12th century (and perhaps earlier), Mallakhamb continues to evolve. Today, it is recognized as a competitive sport with structured formats like Pole Mallakhamb, Rope Mallakhamb, and Hanging Mallakhamb.<br><br>Yet, at its heart, it remains a cultural treasure—an art form that carries the soul of Indian physical training.<br><br>⸻<br><br>Why We’re Sharing This<br><br>This demo blog gives you a preview of the kind of articles we’ll be publishing on The Mallakhambist. Expect real stories from athletes, deep dives into techniques, training schedules, interviews with coaches, event coverage, and much more.<br><br>⸻<br><br>Coming Soon…<br><br>🔹 Athlete Spotlights<br>🔹 Video Tutorials<br>🔹 Mallakhamb in Schools &amp; Communities<br>🔹 Nutrition &amp; Fitness Guides<br>🔹 Historical Timelines and Regional Styles<br><br>We’re building a space for everyone—athletes, fans, newcomers, and cultural explorers. Whether you’re a national-level performer or someone who just discovered the word Mallakhamb today—you belong here.<br><br>⸻<br><br>Thank you for visiting this demo post. Stay tuned for more inspiring and informative content soon.<br>
-  </p>
+                    <p><img src="https://mallakhambist.in/media/posts/11/Origins-of-Mallakhamb-Recovered.png" class="type:primaryImage" alt="The Legendary Origin of Mallakhamb" /></p>
+                <p data-start="437" data-end="650">India is a land that breathes culture and tradition. From spices that changed global trade routes, to yoga that heals millions, to cinema and cricket that capture imaginations—its gifts to the world are endless.</p>
+<p data-start="652" data-end="836">But hidden among these treasures lies something extraordinary. A sport both fierce and graceful. A sport where the human body becomes poetry in motion. A sport called <strong data-start="819" data-end="833">Mallakhamb</strong>.</p>
+<p data-start="838" data-end="1094">If you’ve ever seen an athlete spin around a pole, hanging upside down with impossible balance, or glide through the air on a rope as if gravity didn’t exist—you’ve witnessed Mallakhamb. It’s a spectacle that’s equal parts <strong data-start="1061" data-end="1091">athletic feat and art form</strong>.</p>
+<p data-start="1096" data-end="1177">But the story of Mallakhamb isn’t just about training. It begins with a legend.</p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://mallakhambist.in/media/posts/11/123-2.avif" alt="Mallakhamb in front of Red Fort, Delhi, India." width="700" height="394">
+<figcaption >Image courtesy - blackbeltmag.com</figcaption>
+</figure>
+<p data-start="1096" data-end="1177"> </p>
+<h1 data-start="1184" data-end="1225">The Challenge No One Dared to Accept</h1>
+<p data-start="1227" data-end="1506">The year was the late 1700s. The Nizam of Hyderabad was proud of two men in his court: Ali and Gulab—giants of wrestlers, said to be nearly eight feet tall, their muscles carved like stone. They were undefeated. No one in India—or the world—had ever managed to throw them down.</p>
+<p data-start="1508" data-end="1610">When they arrived at the court of <strong data-start="1542" data-end="1563">Peshwa Bajirao II</strong> in Pune, they issued a thunderous challenge:</p>
+<p data-start="1612" data-end="1673">“Bring us your best wrestler. Let him face us—if he dares.”</p>
+<p data-start="1675" data-end="1849">The royal court fell silent. <strong data-start="1704" data-end="1727">Fifty-two wrestlers</strong> stood frozen, none willing to risk their life and honor. The Peshwa’s pride was at stake, and defeat seemed inevitable.</p>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://mallakhambist.in/media/posts/11/balambhattadada.jpg" alt="Balambhatta Dada Deodhar: The Father of Mallakhamb" width="647" height="778" sizes="(max-width: 48em) 100vw, 768px" srcset="https://mallakhambist.in/media/posts/11/responsive/balambhattadada-xs.jpg 300w ,https://mallakhambist.in/media/posts/11/responsive/balambhattadada-sm.jpg 480w ,https://mallakhambist.in/media/posts/11/responsive/balambhattadada-md.jpg 768w ,https://mallakhambist.in/media/posts/11/responsive/balambhattadada-lg.jpg 1024w ,https://mallakhambist.in/media/posts/11/responsive/balambhattadada-xl.jpg 1360w ,https://mallakhambist.in/media/posts/11/responsive/balambhattadada-2xl.jpg 1600w"></figure>
+<figcaption >Balambhatta Dada Deodhar: The Father of Mallakhamb</figcaption>
+</figure>
+<p data-start="1675" data-end="1849"> </p>
+<p data-start="1851" data-end="1990">That’s when one man stepped forward. Not a hulking wrestler, but a teacher. The court’s physical instructor—<strong data-start="1959" data-end="1988">Balambhatta Dada Deodhar.</strong></p>
+<h1 data-start="1997" data-end="2035">The Dream That Changed Everything</h1>
+<p data-start="2037" data-end="2164">Balambhatta Dada asked for time. He returned to his hometown of <strong data-start="2096" data-end="2118">Kothure, in Nashik</strong>, carrying the burden of his people’s honor.</p>
+<p data-start="2166" data-end="2301">Day after day, he trained. He prayed to his ancestral goddess, <strong data-start="2229" data-end="2245">Saptashrungi</strong>, for strength. And then—one night—everything changed.</p>
+<p data-start="2303" data-end="2430">The goddess appeared in his dream and whispered:<br data-start="2351" data-end="2354">“Worship Lord Hanuman, the god of power. Only then will victory be yours.”</p>
+<p data-start="2432" data-end="2648">That very night, Lord Hanuman himself came to Balambhatta—in the form of a monkey. On a wooden pole, the divine monkey performed dazzling acrobatics, twisting, leaping, and balancing in ways no human could imagine.</p>
+<p data-start="2650" data-end="2724">When Balambhatta Dada awoke, his heart was racing. He knew what he had to do.</p>
+<p data-start="2726" data-end="2944">He built the same wooden pole from his dream. He trained on it day and night, mastering movements inspired by Hanuman’s divine performance. What began as prayer became power. What began as desperation became destiny.</p>
+<h1 data-start="2951" data-end="2976">The Day of Reckoning</h1>
+<p data-start="2978" data-end="3124">The court was overflowing with spectators on the day of the fight. Whispers ran through the crowd: <em data-start="3077" data-end="3122">Could this teacher really fight the giants?</em></p>
+<p data-start="3126" data-end="3252">Ali stepped forward first. He smirked at the smaller man before him. But within moments, his confidence turned to confusion.</p>
+<p data-start="3254" data-end="3488">Balambhatta Dada moved unlike any wrestler Ali had ever seen—his techniques drawn from the pole, swift and fluid, almost otherworldly. Then, in a flash, Balambhatta Dada locked Ali’s neck between his legs, spun, and slammed him to the ground.</p>
+<p data-start="3490" data-end="3541">Ali—the undefeated titan—was defeated in minutes.</p>
+<p data-start="3543" data-end="3597">The crowd erupted. The impossible had just happened.</p>
+<p data-start="3599" data-end="3721">Seeing his partner’s downfall, Gulab panicked. Instead of stepping forward, he fled. The match was over before it began.</p>
+<p data-start="3723" data-end="3828">The Peshwas cheered. The teacher had saved their honor. From that day on, he was honored as <strong data-start="3815" data-end="3826">“Dada.”</strong></p>
+<h1 data-start="3835" data-end="3863">The Birth of Mallakhamb</h1>
+<p data-start="3865" data-end="4128">The wooden pole Balambhatta Dada had built became more than a training tool. It was a bridge between worship and warfare, between art and athletics. Wrestlers—<em data-start="4019" data-end="4027">mallas</em>—began to train on it, and soon, the practice earned its name: <strong data-start="4090" data-end="4126">Mallakhamb, the wrestler’s pole.</strong></p>
+<p data-start="4130" data-end="4378">What started as a weapon of survival grew into a tradition. And today, centuries later, it has evolved into a <strong data-start="4240" data-end="4276">modern sport practiced worldwide</strong>—a breathtaking blend of strength, flexibility, and artistry, standing proudly alongside gymnastics.</p>
+<h1 data-start="4385" data-end="4407">More Than a Sport</h1>
+<figure class="post__image" ><figure class="post__image post__image--center"><img loading="lazy"  src="https://mallakhambist.in/media/posts/11/mallah.gif" alt="Old Mallakhamb Pyramid picture" width="600" height="936"></figure>
+<figcaption >Image courtesy - sports.indiapress.org</figcaption>
+</figure>
+<p> </p>
+<p data-start="4409" data-end="4538">Mallakhamb is not just exercise. It’s a story of resilience. A reminder that when tradition meets creativity, legends are born.</p>
+<p data-start="4540" data-end="4790">The pole that once saved a kingdom’s honor now inspires athletes across the globe. And as the sport continues to grow, it carries with it the spirit of its origins—<strong data-start="4704" data-end="4788">the courage of Balambhatta Dada, the blessing of Hanuman, and the soul of India.</strong></p>
+<p data-start="4797" data-end="4926"> </p>
             ]]>
         </content>
     </entry>
